@@ -63,7 +63,7 @@ Generate a trigger from a model:
 
 ```shell
 python gen.py transfer \
-    --model-path xxx/xxx.model \
+    --model_path xxx/xxx.model \
     --source content_imgs/fl.jpg \
     --output fl_st_banana.jpg \
     --gpu 0
