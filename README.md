@@ -1,8 +1,8 @@
-# Pre-trained-Trojan
+# Pre-trained Trojan Attacks for Visual Recognition
 
 ## Introduction
 
-This repository is the official PyTorch implemetation of paper "Pre-trained Trojan Attacks".
+This repository is the official PyTorch implemetation of paper "Pre-trained Trojan Attacks for Visual Recognition".
 
 ## Install
 
